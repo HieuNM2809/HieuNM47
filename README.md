@@ -1,11 +1,9 @@
-# <p align="center">Nguyên Minh Hiếu</p>
+# <p align="center">Nguyễn Minh Hiếu</p>
 
 <p align="center">
 	<a href="https://github.com/Hieunm47">
 	</a>
 </p>
-
-<h2 align="center">About me</h2>
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>
